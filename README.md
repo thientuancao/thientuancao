@@ -21,6 +21,6 @@ Hands-on experience as operations manager & IT lead of a restaurant in Kleve:
 
 **Get in touch**
 
-LinkedIn: [linkedin.com/in/tuancao](https://www.linkedin.com/in/tuancao) · Email: tuan@tuancao.de
+LinkedIn: [linkedin.com/in/thientuancao](https://www.linkedin.com/in/thientuancao) · Email: tuan@tuancao.de
 
 <sub>Kleve, Germany · Vietnamese · Deutsch · English</sub>
