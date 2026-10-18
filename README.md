@@ -1,20 +1,23 @@
 ### Hi, I'm Tuan 👋
 
-I connect **engineering and hospitality**.
+Aspiring **mechatronics & systems engineer**: I'm interested in how mechanics, electronics, software and processes become one reliable system.
 
-- 🎓 Studying **Mechatronic Systems Engineering** at Hochschule Rhein-Waal, Kleve
-- 🍜 Manager & IT administrator at a modern Asian restaurant in Kleve, where I see every day what service, kitchen and office actually need
-- 🛠️ Currently building **software for restaurants**: orders, reservations, table management and team workflows
-- 🎨 I also design the print and brand side: menus, wine lists, vouchers, business cards
+- 🎓 **Mechatronic Systems Engineering** at Hochschule Rhein-Waal, Kleve: sensors & actuators, control engineering, electronics, programming, design
+- ⚙️ I work **from requirements to verification**: define the problem, design the system and its interfaces, test it in real operation
+- 🏭 Interested in **automation, embedded systems** and the **digitalization of production and processes**
+- 🔍 Looking for a **working student role, internship or bachelor thesis** in these fields
 
-**What I've built so far**
-- A voucher register for a restaurant: issue, redeem and book gift vouchers, including migration of the legacy voucher stock
-- A QR voucher sticker generator using random, non-guessable tokens
-- A POS migration and revenue reconciliation during live operation
+**Applied projects**
 
-**Tech I work with**
+Hands-on experience as operations manager & IT lead of a restaurant in Kleve:
+- **System migration:** planned and executed a POS migration during live operation, including data validation
+- **Voucher system:** requirements analysis → design for manufacturing (print tolerances, folding, bleed) → QR codes with random tokens → database-backed register
+- **IT infrastructure & security:** network, accounts, 2FA, email authentication (SPF/DKIM/DMARC), documentation
+- **Data automation:** reconciliation and reporting scripts for bookkeeping
 
-`TypeScript` · `Node.js` · `NestJS` · `PostgreSQL` · `Prisma` · `Python` · `Docker` · `Figma`
+**Tools & tech**
+
+`Python` · `TypeScript` · `Node.js` · `SQL / PostgreSQL` · `Docker` · `Git` · `Figma`
 
 **Get in touch**
 
